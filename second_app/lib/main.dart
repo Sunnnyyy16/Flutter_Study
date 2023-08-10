@@ -24,9 +24,9 @@ void main() {
               const SizedBox(
                 height: 20,
               ),
-              TextButton(
+              OutlinedButton(
                 onPressed: () {},
-                style: TextButton.styleFrom(
+                style: OutlinedButton.styleFrom(
                   foregroundColor: Colors.white,
                   textStyle: const TextStyle(
                     fontSize: 15,
